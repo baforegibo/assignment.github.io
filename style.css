@@ -470,7 +470,9 @@ p {
 	font-size: 5px;
   }
 
-
+aside {
+	margin-bottom: 0px;
+}
 }
 /* Mobile styles */
 
